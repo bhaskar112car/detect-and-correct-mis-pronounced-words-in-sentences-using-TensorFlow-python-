@@ -1,0 +1,207 @@
+,correct_sentences,mis_pro_word,actual_word
+0,The bear was grazing in the meadow,bare,bear
+1,The blue sky was dotted with clouds,blew,blue
+2,The boar charged at the hunters,bore,boar
+3,The bow was strung and ready to fire,bough,bow
+4,The class was canceled due to bad weather,clause,class
+5,The deer leaped over the fence,dear,deer
+6,The fair was held in the town square,fare,fair
+7,The hair was pulled back into a ponytail,hare,hair
+8,The knight wore a suit of armor,night,knight
+9,The maid cleaned the room,made,maid
+10,The pair of shoes was on sale,pear,pair
+11,The sail was billowing in the wind,sale,sail
+12,The stairs led up to the tower,stares,stairs
+13,The tear in her dress was barely noticeable,tier,tear
+14,The waist of her dress was cinched tightly,waste,waist
+15,He left his hat on the bed,hate,hat
+16,The new book is on the shelf,knew,new
+17,She saw a ghost in the attic,seen,scene
+18,The bank is by the river,barn,bank
+19,The ship will sail at noon,cell,sail
+20,I bought a loaf of bread,bought,brought
+21,They're going to the park,their,they're
+22,We're going on a trip,wear,we're
+23,The flower is in full bloom,flour,flower
+24,The horse runs in the field,hoarse,horse
+25,She wore a beautiful gown,grown,gown
+26,I can't find my keys,can,can't
+27,The plane will land soon,plain,plane
+28,Please pass me the peas,peace,peas
+29,It's time to eat lunch,it's,its
+30,I ate too much at lunch,ate,eight
+31,The bird sang a sweet song,burred,bird
+32,She wore a ring on her finger,worn,ring
+33,He is the heir to the throne,air,heir
+34,The rock is very hard,rock,wok
+35,The fish swam in the sea,wish,fish
+36,The band played a great song,banned,band
+37,She's the best singer,she's,seas
+38,He's a very strong man,he's,his
+39,The wind will blow the leaves,winded,wind
+40,The cake has a sweet taste,cake,cane
+41,We'll see the doctor soon,we'll,wheel
+42,The cat will chase the mouse,kat,cat
+43,The ship will dock at the pier,ship,peer
+44,The plane will take off,plain,plane
+45,The deer is very dear to me,deer,dear
+46,The hare ran through the field,hair,hare
+47,The knight fought valiantly,night,knight
+48,The mayor addressed the crowd,mare,mayor
+49,The sun will set in the west,son,sun
+50,I can't bear the pain,bare,bear
+51,The right answer is here,write,right
+52,The toad jumped into the pond,towed,toad
+53,The bread is on the shelf,bred,bread
+54,She wore a lovely dress,worn,dress
+55,The ring is made of gold,ring,wring
+56,We will meet at the station,meat,meet
+57,The bell rang loudly,belle,bell
+58,The hare is fast,hair,hare
+59,The knight is brave,night,knight
+60,The maid cleaned the house,made,maid
+61,The pair of socks is warm,pare,pair
+62,The cell has no signal,sell,cell
+63,The stairs led to the basement,stares,stairs
+64,The deer is very agile,dear,deer
+65,She found a tear in her shirt,tier,tear
+66,The waist of the pants is tight,waste,waist
+67,The weather is warm today,whether,weather
+68,He broke the vase,he,vase
+69,The flower is beautiful,flour,flower
+70,They're going to the store,their,they're
+71,We're having a picnic,wear,we're
+72,The pie is delicious,pi,pie
+73,I bought a new pair of shoes,bought,pair
+74,I can't bear to see you cry,bare,bear
+75,The sun is very bright,son,sun
+76,She wore a crown on her head,worn,crown
+77,The knight defended the castle,night,knight
+78,The whale is a massive creature,wail,whale
+79,He has a ton of work to do,ton,tun
+81,Please pass me the keys,peace,piece
+82,The rock is solid,rock,roc
+83,The cat will chase the rat,kat,cat
+84,The ship will dock at the port,ship,port
+85,The deer is graceful,dear,deer
+86,The hairbrush is on the table,hare,hair
+87,The sailor is on the deck,sailor,sailer
+88,The mayor delivered a speech,mare,mayor
+89,The sun will rise in the east,son,sun
+90,The right path leads to success,write,right
+91,The bird is in the nest,burred,bird
+92,The toad sat on the log,towed,toad
+93,The bread is soft,bred,bread
+94,The knight was brave,night,knight
+95,The sailboat glided smoothly,sale,sail
+96,The bear is a strong animal,bare,bear
+97,The cake is chocolate,cake,cane
+98,We'll go for a walk,we'll,wheel
+99,The band played a new song,banned,band
+100,The hare hopped away,hair,hare
+101,He's the strongest man,he's,his
+102,The wind blew the leaves,winded,wind
+103,I can't stand the heat,stand,heat
+104,The cat will pounce on the mouse,kat,cat
+105,The ship will sail away,ship,sail
+106,The sun is setting,son,sun
+107,I can't bear to leave,bare,bear
+108,The rain will stop soon,reign,rain
+109,The toad is green,towed,toad
+110,The bread is fresh,bred,bread
+111,She wore a beautiful necklace,worn,necklace
+112,We will meet by the river,meat,meet
+113,The bell rang for dinner,belle,bell
+114,The hare is swift,hair,hare
+115,The knight rode a horse,night,knight
+116,The maid cleaned the kitchen,made,maid
+117,The pair of gloves is warm,pare,pair
+118,The cell phone is ringing,sell,cell
+119,The stairs go up to the attic,stares,stairs
+120,The deer is quick,dear,deer
+121,She found a tear in her book,tier,tear
+122,The waist of the jeans is tight,waste,waist
+123,The weather is cold today,whether,weather
+124,He broke the vase by accident,he,vase
+125,The flower smells nice,flour,flower
+126,They're going to the beach,their,they're
+127,We're having a barbecue,wear,we're
+128,The pie has a cherry filling,pi,pie
+129,I bought a new pair of socks,bought,pair
+130,I can't bear the thought,bare,bear
+131,The sun is shining brightly,son,sun
+133,The knight is very brave,night,knight
+134,The whale is a magnificent creature,wail,whale
+135,He has a ton of bricks,ton,tun
+136,The plane will take off shortly,plain,plane
+138,The rock is heavy,rock,roc
+140,The ship will dock at the harbor,ship,port
+141,The deer is elegant,dear,deer
+142,The hairbrush is missing,hare,hair
+143,The sailor is on the ship,sailor,sailer
+144,The mayor spoke eloquently,mare,mayor
+146,The right path leads to the destination,write,right
+149,The bread is delicious,bred,bread
+150,The knight is courageous,night,knight
+151,The sailboat is ready to depart,sale,sail
+152,The bear is a large animal,bare,bear
+153,The cake is moist,cake,cane
+154,We'll go for a swim,we'll,wheel
+155,The band played a catchy tune,banned,band
+156,The hare is quick,hair,hare
+157,He's the tallest man,he's,his
+158,The wind blows the leaves,winded,wind
+159,I can't stand the rain,stand,rain
+160,The cat will catch the mouse,kat,cat
+161,The ship will set sail,ship,sail
+162,The sun is shining,son,sun
+163,I can't bear to say goodbye,bare,bear
+164,The reign of the king ended,reign,rain
+165,The toad is small,towed,toad
+166,The bread is fresh and warm,bred,bread
+167,She wore a stunning necklace,worn,necklace
+168,We will meet at the cafÃ©,meat,meet
+171,The knight protected the kingdom,night,knight
+172,The maid cleaned the entire house,made,maid
+173,The pair of gloves fits perfectly,pare,pair
+174,The cell phone has a new feature,sell,cell
+175,The stairs lead to the basement,stares,stairs
+176,The deer is graceful and swift,dear,deer
+177,She found a tear in her notebook,tier,tear
+178,The waist of the dress is adjustable,waste,waist
+179,The weather is unpredictable,whether,weather
+180,He broke the vase accidentally,he,vase
+181,The flower blooms in spring,flour,flower
+182,They're going to the zoo,their,they're
+183,We're having a party,wear,we're
+184,The pie is apple,pi,pie
+185,I bought a pair of gloves,bought,pair
+186,I can't bear the weight,bare,bear
+187,The sun is setting in the west,son,sun
+188,She wore a diamond ring,worn,ring
+189,The knight fought bravely,night,knight
+194,The rock is solid and heavy,rock,roc
+197,The deer is elegant and quick,dear,deer
+198,The hairbrush is on the counter,hare,hair
+200,The mayor gave a speech,mare,mayor
+203,The bird built a nest,burred,bird
+204,The toad is by the pond,towed,toad
+205,The bread is freshly baked,bred,bread
+208,The bear is a powerful animal,bare,bear
+209,The cake is chocolate-flavored,cake,cane
+210,We'll go for a hike,we'll,wheel
+212,The hare hopped away quickly,hair,hare
+213,He's the smartest man,he's,his
+214,The wind blows the leaves around,winded,wind
+215,I can't stand the noise,stand,noise
+217,The ship will set sail soon,ship,sail
+219,I can't bear to see you hurt,bare,bear
+220,The reign of the queen continued,reign,rain
+221,The toad is croaking,towed,toad
+222,The bread is delicious and warm,bred,bread
+224,We will meet by the riverbank,meat,meet
+226,The hare is quick and agile,hair,hare
+240,The pie is apple-flavored,pi,pie
+241,I bought a pair of shoes,bought,pair
+242,I can't bear the thought of it,bare,bear
+244,She wore a diamond necklace,worn,necklace
